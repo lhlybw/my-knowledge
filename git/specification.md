@@ -1,3 +1,3 @@
-#specification for use git
+#use git
 personal
-![Alt text](personal_specification.png)
+![personal specification](personal_specification.png)
