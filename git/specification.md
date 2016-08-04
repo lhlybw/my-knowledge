@@ -2,7 +2,7 @@ Git使用规范与分支管理
 ===================
 #个人规范
 ![personal specification](personal_specification.png "personal specification")  
-一图胜千言。需要注意的地方是，很多人（我也这么觉得）第5步建议将pull修改为fetch[+merge]。  
+一图胜千言。需要注意的地方是，很多人建议将第5步pull修改为fetch[+merge]。  
 对于非GitHub Repository，省略图中"Your GitHub Repository"即可。
 
 #仓库分支管理
